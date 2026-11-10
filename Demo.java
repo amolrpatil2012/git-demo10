@@ -7,6 +7,6 @@ class Demo
     public void newFeature()
     {
         System.out.println("Added from main branch");
-        
+        System.out.println("Added from feature branch");
     }
 }
