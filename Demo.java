@@ -4,4 +4,8 @@ class Demo
     {
         System.out.println("Add");
     }
+    public void newFeature()
+    {
+        
+    }
 }
